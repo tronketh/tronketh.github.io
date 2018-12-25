@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+link: https://tronketh.github.io/Sticky-Balls
 date: 2014-07-18
 img: game.png
 alt: image-alt
