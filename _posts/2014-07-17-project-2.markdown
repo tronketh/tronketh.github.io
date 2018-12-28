@@ -1,12 +1,12 @@
 ---
 layout: default
-link: https://tronketh.github.io/Sticky-Balls
-date: 2014-07-17
+link: https://github.com/tronketh/Document-Management
+date: 2018-12-1
 img: cake.png
 alt: image-alt
-project-date: April 2014
+project-date: December 2018
 client: Start Bootstrap
-category: Web Development
-description: 2
+category: Java Development
+description: A small application made using java swing
 
 ---

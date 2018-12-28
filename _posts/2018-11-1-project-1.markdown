@@ -2,7 +2,7 @@
 layout: default
 link: https://tronketh.github.io/Sticky-Balls
 date: 2018-12-25
-img: game.png
+img: stickyballs.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
